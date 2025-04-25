@@ -13,8 +13,8 @@ relay.value(0)  # Initialize relay to OFF
 led = Pin('LED', Pin.OUT)
 
 # Wi-Fi credentials
-ssid = 'hastins'
-password = '876543210'
+ssid = 'Your Wifi SSID'
+password = 'Your password '
 
 
 # HTML template (modified for relay control)
